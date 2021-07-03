@@ -1,10 +1,10 @@
 /*
  *  Created by IntelliJ IDEA.
- *  User: Vaibhav
- *  Date: 23-Mar-20
- *  Time: 7:17 PM
+ *  User: ABHISHEK
+ *  Date: 28-03-2020
+ *  Time: 19:01
  */
-package problem1.node;
+package problem2.node;
 
 public class TreeNode {
     private int data;
